@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API Users</string>
+    <string name="lblMainActivity_text">Click aquí para obtener los usuarios</string>
+    <string name="btnGetUsers">OBTENER USUARIOS</string>
+</resources>
