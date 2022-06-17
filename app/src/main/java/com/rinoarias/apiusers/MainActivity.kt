@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         val txtResult = findViewById<EditText>(R.id.txtResult)
 
         val queue = Volley.newRequestQueue(this)
-        val url = "https://gorest.co.in/public/v1/userdfsfds"
+        val url = "https://gorest.co.in/public/v1/users"
 
         val btnGetUsers = findViewById<Button>(R.id.btnGetUsers)
         btnGetUsers.setOnClickListener {
